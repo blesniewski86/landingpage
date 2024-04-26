@@ -28,6 +28,10 @@ body {
     gap: 12px;
 }
 
+.gray {
+    background-color: lightgray;
+}
+
 .blue {
     color: #F9FAF8;
     background-color: #1f2937;
@@ -125,7 +129,6 @@ p {
     padding: 64px;
     font-size: 24px;
     flex-direction: column;
-    background-color: #E5e7eb;
 }
 
 .signature {
